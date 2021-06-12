@@ -1,13 +1,11 @@
-### Hi there 👋 I'm Pranjal Mishra
-![Profile views](https://gpvc.arturio.dev/Pranjalmishra30)
+## Hi there 👋 
+![Profile views](https://komarev.com/ghpvc/?username=Pranjalmishra30&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-PranjalMishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-mishra-3a79b0196/)
 
+I'm Pranjal Mishra, an undergrad student pursuing Computer Science at Manipal Institute of technology. I am a tech enthusiast & football fanatic. My interests lie in the field of computer vision and deep learning. 
 
-I am a undergrad pursuing Computer Science at Manipal Institute of technology. My interests lie in the field of computer vision and deep learning. 
-<!-- I am currently learning RL and ROS.
- -->
-
-- 🤔 I’m looking for help with Frontend Dev
+- ⭐ I'm currently exploring RL and ROS
+- 🤔 I’m looking for help with Frontend WebDev
 - 💬 Ask me about Arduino,Computer vision
 
 ### Languages and Tools:
