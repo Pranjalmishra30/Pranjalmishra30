@@ -25,4 +25,4 @@ I am a undergrad pursuing Computer Science at Manipal Institute of technology. M
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">&emsp;  
 <br><br> 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjalmishra30&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Pranjalmishra30&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalmishra30&hide=TeX&layout=compact&theme=prussian)
