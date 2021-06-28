@@ -4,8 +4,8 @@
 
 I'm Pranjal Mishra, an undergrad student pursuing Computer Science at Manipal Institute of technology. I am a tech enthusiast & football fanatic. My interests lie in the field of computer vision and deep learning. 
 
-- ⭐ I'm currently exploring RL and ROS
-- 🤔 I’m looking for help with Frontend WebDev
+- ⭐ I'm currently exploring CNN's and Tensorflow  
+- 🤔 I’m looking for help with Frontend Dev
 - 💬 Ask me about Arduino,Computer vision
 
 ### Languages and Tools:
