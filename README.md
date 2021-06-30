@@ -22,5 +22,5 @@ I'm Pranjal Mishra, an undergrad student pursuing Computer Science at Manipal In
 <img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&emsp;
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">&emsp;  
 <br><br> 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjalmishra30&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalmishra30&hide=TeX&layout=compact&theme=prussian)
+![Pranjal's GitHub stats]()
+![Top Langs]()
