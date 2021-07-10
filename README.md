@@ -2,11 +2,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Pranjalmishra30&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-PranjalMishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-mishra-3a79b0196/)
 
-I'm Pranjal Mishra, an undergrad student pursuing Computer Science at Manipal Institute of technology.  
-I am a tech enthusiast & football fanatic. My interests lie in the field of computer vision and deep learning and their applications in robotics. 
+I'm Pranjal Mishra, an undergrad student pursuing Computer Science at Manipal Institute of technology. I am the coding head at **Robomanipal** - The official robotics team at MIT, Manipal. I am a tech enthusiast & a football fanatic. My interests lie in the field of computer vision and deep learning and their applications in robotics. 
 
-- ⭐ I'm currently exploring CNN's and Tensorflow  
-- 🤔 I’m looking for help with Frontend Dev
+- ⭐ I'm currently exploring ROS  
+- 🤔 I’m looking for help with django and flask   
 - 💬 Ask me about Arduino,Computer vision
 - 📩 Drop a mail at pranjalmishra2022@gmail.com  	
 
