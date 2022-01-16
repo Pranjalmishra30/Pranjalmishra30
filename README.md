@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PranjalMishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-mishra-3a79b0196/)
 
 Hey, I am Pranjal, a CS undergrad at MIT, Manipal. My interests lie in machine learning, computer vision, and software development. I am also the coding head at [Robomanipal](http://robomanipal.com/#/), the official robotics student project of Manipal. Outside of work, I am a football and F1 enthusiast.  
-You can check out my resume [here](https://drive.google.com/file/d/1LCorOTI4ZaK0gyI4Ikti5zhPUFDAXt0_/view?usp=sharing)  
+You can check out my resume [here](https://drive.google.com/file/d/15TE3M09_tVlB3jDcISqE3XaicbZ89EBw/view?usp=sharing)  
 
 - ⭐ I'm currently exploring Javascript  
 - 💬 Ask me about Arduino,Computer vision and ROS
