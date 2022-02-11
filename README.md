@@ -5,7 +5,7 @@
 Hey, I am Pranjal, a CS undergrad at MIT, Manipal. My interests lie in machine learning, computer vision, and software development. I am also the coding head at [Robomanipal](http://robomanipal.com/#/), the official robotics student project of Manipal. Outside of work, I am a football and F1 enthusiast.  
 You can check out my resume [here](https://drive.google.com/file/d/15TE3M09_tVlB3jDcISqE3XaicbZ89EBw/view?usp=sharing)  
 
-- ⭐ I'm currently exploring Javascript  
+- ⭐ I'm currently learning nodeJS  
 - 💬 Ask me about Arduino,Computer vision and ROS
 - 📩 Drop a mail at pranjalmishra2022@gmail.com  	
 <!-- - 🤔 I’m looking for help with django and flask    -->
@@ -21,6 +21,6 @@ You can check out my resume [here](https://drive.google.com/file/d/15TE3M09_tVlB
 <img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">&emsp;
 <img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&emsp;
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">&emsp;  
-<br><br> 
+<!-- <br><br> 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjalmishra30&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalmishra30&hide=TeX&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalmishra30&hide=TeX&layout=compact&theme=prussian) -->
